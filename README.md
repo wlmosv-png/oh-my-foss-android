@@ -2189,6 +2189,22 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
+- [WPAForge](https://github.com/wlmosv-png/wpaforge)
+  [[网站](https://wlmosv.dpdns.org/wpaforge/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/wlmosv-png/wpaforge?style=flat"></sub>
+
+  <details>
+
+  <summary>在手机上验证自有路由器的 WPA/WPA2 口令强度，每条候选都真实发起一次关联验证。</summary><br/>
+
+  按 SSID 与线索现场生成候选，每条候选都真实发起一次关联、以 4-Way Handshake 是否完成为唯一判据，而不是跑一遍字典就给结论；另含 WPS 检测与拆半攻击、局域网侦察、`.cap`/`.hc22000` 离线校验、频谱雷达与信道建议。
+
+  全部在本机完成，不联网上传，命中的口令在本机只以密文保存。需要 Root（Android 8.0 及以上），开源（Apache-2.0）。
+
+  仅限你自己拥有、或已获得明确授权的网络使用。
+
+  </details>
+
 - [GitFox](https://gitlab.com/terrakok/gitlab-client)
   [[F-Droid](https://f-droid.org/packages/com.gitlab.terrakok.gitfox/)]
   <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/terrakok%2Fgitlab-client?style=flat"></sub>
